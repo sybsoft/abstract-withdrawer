@@ -1,4 +1,4 @@
-# Abstract Withdrawer
+# Abstract Withdrawer - https://t.me/sybilych
 Скрипт выводит эфир с кошельков Abstract на указанные адреса.
 
 # Настройка
